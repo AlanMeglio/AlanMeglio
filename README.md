@@ -2,16 +2,18 @@
   <img src="https://komarev.com/ghpvc/?username=meglioalan&label=Profile%20views&color=61DAFB&style=flat" alt="Alan Meglio's Profile Views" />
 </div>
 
-<h1 align="center">Hello there! 👋 I'm Alan Meglio</h1>
+<h1 align="center">Hello there! I'm Alan Meglio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2361DAFB&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer+%7C+React+and+Node.js;Web+Solutions+Architect;Automation+Specialist+(n8n);Information+Systems+Engineer+(UTN)" alt="Typing Effect: Full Stack Developer | Web Solutions Architect | Automation Specialist">
+</div>
 
 ---
 
 <p align="center">
-  ✨ <strong>Full Stack Developer</strong> with a background in Information Systems Engineering (UTN).
+  ✨ With a background in Information Systems Engineering, I specialize in developing modern web solutions
   <br>
-  💻 Specialized in building modern web solutions using <strong>React JS, TypeScript, and Node.js</strong>,
-  <br>
-  and optimizing business processes through <strong>n8n automation</strong>.
+  and optimizing business processes through powerful **n8n automation**.
 </p>
 
 <div align="center">
