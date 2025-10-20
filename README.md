@@ -4,19 +4,22 @@
 
 <h1 align="center">Hello there! 👋 I'm Alan Meglio</h1>
 
-<div align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="Animated About Me Banner" width="40%" style="border-radius: 10px;"/>
-</div>
-
 ---
 
-<p align="center">
-  ✨ <strong>Full Stack Developer</strong> with a background in Information Systems Engineering (UTN).
-  <br>
-  💻 Specialized in building modern web solutions using <strong>React JS, TypeScript, and Node.js</strong>,
-  <br>
-  and optimizing business processes through <strong>n8n automation</strong>.
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 20px;">
+  <div style="flex: 2; min-width: 280px; text-align: left;">
+    <p>
+      ✨ <strong>Full Stack Developer</strong> with a background in Information Systems Engineering (UTN).
+      <br>
+      💻 Specialized in building modern web solutions using <strong>React JS, TypeScript, and Node.js</strong>,
+      <br>
+      and optimizing business processes through <strong>n8n automation</strong>.
+    </p>
+  </div>
+  <div style="flex: 1; min-width: 150px; text-align: center;">
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="Animated About Me Banner" width="150px" style="border-radius: 10px; margin-top: 10px;"/>
+  </div>
+</div>
 
 ---
 
