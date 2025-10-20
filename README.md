@@ -6,10 +6,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="Animated About Me Banner" width="70%" style="border-radius: 10px;"/>
-</div>
-
 <p align="center">
   ✨ <strong>Full Stack Developer</strong> with a background in Information Systems Engineering (UTN).
   <br>
@@ -17,6 +13,10 @@
   <br>
   and optimizing business processes through <strong>n8n automation</strong>.
 </p>
+
+<div align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="Animated About Me Banner" width="150px" style="border-radius: 10px; margin: 10px 0;"/>
+</div>
 
 ---
 
