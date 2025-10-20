@@ -80,14 +80,5 @@
   </a>
 </p>
 
----
-
-<h2 align="center">📈 GitHub Stats & Activity</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meglioalan&show_icons=true&theme=vue-dark&count_private=true&hide_border=true&title_color=61DAFB&icon_color=61DAFB" alt="Alan Meglio GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meglioalan&theme=vue-dark&hide_border=true&ring=61DAFB&side_main=61DAFB" alt="GitHub Streak" />
-</div>
-
 <br>
 <br>
