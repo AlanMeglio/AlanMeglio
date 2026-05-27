@@ -13,81 +13,95 @@
 <!-- Banner visual -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 
----
-
-## 👨‍💻 Sobre Mí
-
-```typescript
-const alanMeglio = {
-    ubicacion: "Buenos Aires, Argentina 🇦🇷",
-    rol: "Desarrollador Full Stack & Especialista en Automatización",
-    educacion: "Ingeniería en Sistemas de Información (UTN)",
-    empresa: "Fundador @ Kaelis Digital Studio",
-    
-    enfoqueActual: [
-        "Desarrollo de aplicaciones web escalables",
-        "Automatización de flujos de trabajo con n8n",
-        "Soluciones cloud-native"
-    ],
-    
-    tecnologias: {
-        frontend: ["React", "TypeScript", "Next.js", "Angular"],
-        backend: ["Node.js", "Express", "PHP"],
-        baseDeDatos: ["PostgreSQL", "MySQL", "Supabase"],
-        cloud: ["Google Cloud", "AWS"],
-        automatizacion: ["n8n", "GitHub Actions"],
-        herramientas: ["Git", "Docker", "Postman"]
-    },
-    
-    logros: {
-        impactoAutomatizacion: "70% de reducción en tareas manuales",
-        proyectosEntregados: "50+",
-        satisfaccionClientes: "98%"
-    }
-};
-```
-
----
-
-## 🛠️ Stack Tecnológico y Herramientas
+<br>
+<br>
 
 <div align="center">
 
-### 💻 Desarrollo Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![](https://img.shields.io/badge/-Campana,_Buenos_Aires-0D1117?style=flat-square&logo=googlemaps&logoColor=61DAFB&labelColor=0D1117)
+  ![](https://img.shields.io/badge/-UTN_·_Sistemas-0D1117?style=flat-square&logo=academia&logoColor=61DAFB&labelColor=0D1117)
+  ![](https://img.shields.io/badge/-Building_Bonuxo-0D1117?style=flat-square&logo=rocket&logoColor=61DAFB&labelColor=0D1117)
 
-### ⚙️ Backend y Bases de Datos
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+</div>
 
-### ☁️ Cloud y DevOps
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+<br>
 
-### 🔧 Automatización y Otros
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+```bash
+$ whoami
+```
+
+> Desarrollador full-stack y especialista en automatización desde **Campana, Buenos Aires**.
+> Estudiante avanzado de **Ingeniería en Sistemas (UTN)**.
+> Construyo productos B2B SaaS multi-tenant con foco en gastronomía y comercios locales.
+>
+> **Foco actual →** [`Bonuxo`](https://bonuxo.com): plataforma de fidelización con
+> Apple/Google Wallet, FUDO POS, push notifications y dashboard analítico.
+
+<br>
+
+```bash
+$ cat stack.json
+```
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+```yaml
+backend:
+  - .NET 8
+  - Node.js
+  - Python
+
+frontend:
+  - React
+  - TypeScript
+  - TailwindCSS
+
+datos:
+  - PostgreSQL
+  - Redis
+  - Supabase
+```
+
+</td>
+<td valign="top" width="50%">
+
+```yaml
+infra:
+  - Docker
+  - Coolify
+  - VPS self-hosted
+  - GitHub Actions
+  - Linux
+
+automatización:
+  - n8n
+  - Apple/Google Wallet API
+  - FUDO POS API
+```
+
+</td>
+  </tr>
+</table>
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,python,react,ts,tailwind,postgres,redis,supabase,docker,linux,git&theme=dark" />
 
 </div>
 
 ---
 
-## 📊 Estadísticas de GitHub
+<div align="center">
+  
+  ### `⚡ Activity` 
+  
+</div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=meglioalan&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meglioalan&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=meglioalan&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meglioalan&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB"/>
 </div>
 
 <div align="center">
@@ -100,102 +114,114 @@ const alanMeglio = {
 
 ---
 
-## 💼 Lo Que Hago
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Desarrollo Web
-- **Aplicaciones web personalizadas** con React & TypeScript
-- **APIs RESTful** con Node.js & Express
-- **Diseño de bases de datos** y optimización
-- **UI/UX responsive** implementación
-- **Optimización de rendimiento**
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Soluciones de Automatización
-- **Automatización de flujos** con n8n
-- **Optimización de procesos** (hasta 70% de eficiencia)
-- **Integraciones de APIs** y webhooks
-- **Scripts personalizados** para tareas repetitivas
-- **Pipelines CI/CD**
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Proyectos Destacados
-
 <div align="center">
-
-| Proyecto | Descripción | Stack Tecnológico |
-|---------|-------------|-------------------|
-| 🎯 **[Kaelis Digital Studio](https://kaelis.com)** | Agencia de soluciones digitales especializada en desarrollo web y automatización | React, TypeScript, Supabase |
-| 🤖 **Framework de Automatización** | Flujos de trabajo personalizados en n8n que reducen tareas manuales en 70% | n8n, Node.js, PostgreSQL |
-| 🌐 **Plataforma E-Commerce** | Solución full-stack para PyMEs | React, Node.js, PostgreSQL |
-| 📊 **Dashboard Empresarial** | Sistema de análisis y reportes en tiempo real | Next.js, TypeScript, Google Cloud |
-
+  
+  ### `🚀 Featured Projects`
+  
 </div>
 
+<br>
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>🎯 Bonuxo</h3>
+      <p><b>B2B SaaS de fidelización para gastronomía</b></p>
+      <p>
+        Plataforma multi-tenant que reemplaza tarjetas físicas por <b>passes digitales en Apple/Google Wallet</b>. Integra spin wheel mecánico, notificaciones push segmentadas, FUDO POS y dashboard de analítica para comercios.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/-.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+      <a href="https://bonuxo.com">
+        <img src="https://img.shields.io/badge/Visitar_sitio-61DAFB?style=for-the-badge&logo=googlechrome&logoColor=0D1117&labelColor=0D1117" />
+      </a>
+    </td>
+    <td width="40%" valign="top">
+      <h3>🏠 AdGuard Homelab</h3>
+      <p><b>Setup open-source de AdGuard Home</b></p>
+      <p>
+        Configuración self-hosted documentada paso a paso. Compartida en LinkedIn con muy buena recepción.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/-Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      </p>
+      <br>
+      <h3>🏥 Harvard × Swiss Medical</h3>
+      <p><b>Tech Lead · Hackathon</b></p>
+      <p>
+        Detección neurológica temprana por análisis de voz. Prototipo en 48hs.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <div align="center">
-  <a href="https://github.com/meglioalan?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Ver_Todos_los_Proyectos-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=61DAFB" alt="Ver Todos los Proyectos"/>
+  <a href="https://github.com/meglioalan?tab=repositories">
+    <img src="https://img.shields.io/badge/→_explorar_todos_los_repos-0D1117?style=for-the-badge&logo=github&logoColor=61DAFB&labelColor=0D1117" />
   </a>
 </div>
 
 ---
 
-## 🏢 Experiencia Profesional
-
 <div align="center">
+  
+  ### `💼 Lo que hago`
+  
+</div>
 
-```mermaid
-graph LR
-    A[Estudiante UTN Ingeniería] --> B[Desarrollador Freelance]
-    B --> C[Fundador de Kaelis]
-    C --> D[50+ Proyectos Entregados]
-    D --> E[Especialista en Automatización]
+<br>
+
+```diff
++ Productos SaaS multi-tenant
+  Arquitecturas escalables para comercios pequeños y medianos,
+  con foco en gastronomía y servicios locales en Argentina.
+
++ Automatizaciones a medida
+  Flujos en n8n e integraciones de APIs para reducir
+  trabajo manual en pymes.
+
++ Infraestructura self-hosted
+  Migraciones de cloud managed a VPS propio con Docker + Coolify,
+  CI/CD con GitHub Actions.
 ```
 
-</div>
-
-**🎓 Formación:** Ingeniería en Sistemas de Información (UTN)  
-**💡 Experiencia:** +5 años en desarrollo web y automatización  
-**🏆 Impacto:** Ayudé a más de 30 empresas a optimizar sus procesos digitales  
-**🌟 Especialización:** Desarrollo full-stack con enfoque en automatización
-
----
-
-## 📫 ¡Conectemos!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meglioalan/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.email@ejemplo.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portfolio.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meglioalan)
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Gracias%20por%20visitar!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
-</div>
-
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=El%20código%20es%20como%20el%20humor.%20Cuando%20tienes%20que%20explicarlo,%20es%20malo.&author=Cory%20House" alt="Cita Aleatoria Dev"/>
-</div>
-
-<div align="center">
   
-  **💙 ¡Abierto a colaboraciones y proyectos interesantes!**
+  ### `📡 Contacto`
   
-  *⭐ De [meglioalan](https://github.com/meglioalan)*
+  <br>
+  
+  <a href="https://www.linkedin.com/in/meglioalan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117" />
+  </a>
+  <a href="mailto:meglioalan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117" />
+  </a>
+  <a href="https://bonuxo.com">
+    <img src="https://img.shields.io/badge/Bonuxo-0D1117?style=for-the-badge&logo=googlechrome&logoColor=61DAFB&labelColor=0D1117" />
+  </a>
+  <a href="https://github.com/meglioalan">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+  </a>
+  
+  <br>
+  <br>
+  
+  <i>Abierto a colaboraciones, freelance y proyectos interesantes.</i>
   
 </div>
